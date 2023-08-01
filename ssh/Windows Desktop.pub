@@ -1,3 +1,5 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJrH7MQT+hmDviIxmrdiA2nJUDolFzjaF6J66VfrqLgI eddsa-key-20220612 ron@RG-a64
-#FINGERPRINT = SHA256:yalOVog1b9FIwXcc6PodCYMkzdyS1/RaYAuJT8wddrA eddsa-key-20220612 ron@RG-a64 (ED25519)
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJrH7MQT+hmDviIxmrdiA2nJUDolFzjaF6J66VfrqLgI eddsa-key-20220612 Windows Desktop
+#FINGERPRINT = SHA256:yalOVog1b9FIwXcc6PodCYMkzdyS1/RaYAuJT8wddrA eddsa-key-20220612 Windows Desktop (ED25519)
+#FINGERPRINT = 256 MD5:5b:f6:92:2e:0c:6b:ee:c0:31:07:aa:7b:f4:94:de:20 eddsa-key-20220612 Windows Desktop (ED25519)
+
 
